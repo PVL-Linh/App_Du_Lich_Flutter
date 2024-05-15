@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953877102351",
+    "project_id": "appdulich-d5926",
+    "storage_bucket": "appdulich-d5926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953877102351:android:e3e165f918b389d212887a",
+        "android_client_info": {
+          "package_name": "com.example.complex_ui_rive_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7xxMeI0rLRK8OTVWIdSrumwY-NG1CIo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
